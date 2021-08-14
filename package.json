@@ -1,0 +1,15 @@
+{
+  "name": "object-value-updator",
+  "version": "1.0.0",
+  "description": "Simple NodeJS program that made to update current exist JSON value from other JSON, by the same key without corrupting keys.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "modernator",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
